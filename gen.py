@@ -142,7 +142,17 @@ def main():
   readme.close()
 
   print("Done")
-  print(readmeContents)
+  tableOfContents = ""
+  
+  tableOfContents += "### Chapter " + str(chapterNo) + ": " + chapterTitle + " [View](/Chapter%20" + str(chapterNo) + "/README.md)\n\n"
+  
+  tableOfContents += "- [x] ข้อ 1 [" + item1Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item1Link + ")\n" 
+  tableOfContents += "- [x] ข้อ 2 [" + item2Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item2Link + ")\n" 
+  tableOfContents += "- [x] ข้อ 3 [" + item3Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item3Link + ")\n" 
+  tableOfContents += "- [x] ข้อ 4 [" + item4Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item4Link + ")\n" 
+  tableOfContents += "- [x] ข้อ 5 [" + item5Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item5Link + ")\n" 
+
+  print(tableOfContents)
 
 def multilineInput(prompt):
   print("\n" + prompt)
