@@ -54,11 +54,11 @@ def main():
 
   readmeContents += "## Table of Contents\n\n"
 
-  readmeContents += "-[" + item1Title + "](" + item1Link + ")\n"
-  readmeContents += "-[" + item2Title + "](" + item2Link + ")\n"
-  readmeContents += "-[" + item3Title + "](" + item3Link + ")\n"
-  readmeContents += "-[" + item4Title + "](" + item4Link + ")\n"
-  readmeContents += "-[" + item5Title + "](" + item5Link + ")\n\n"
+  readmeContents += "- [" + item1Title + "](" + item1Link + ")\n"
+  readmeContents += "- [" + item2Title + "](" + item2Link + ")\n"
+  readmeContents += "- [" + item3Title + "](" + item3Link + ")\n"
+  readmeContents += "- [" + item4Title + "](" + item4Link + ")\n"
+  readmeContents += "- [" + item5Title + "](" + item5Link + ")\n\n"
 
   readmeContents += "## " + str(chapterNo) + ".1 " + item1Title + "\n\n"
 
