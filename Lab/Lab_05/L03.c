@@ -2,8 +2,8 @@
 
 int main() {
   int x;       //00
-  x = 0;      //01
-  while (x < 36) { //02
+  x = 47;      //01
+  while (x < 83) { //02
     printf("Hello there\n");
     x += 6;       //03
   }
