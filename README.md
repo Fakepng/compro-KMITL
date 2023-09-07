@@ -68,13 +68,13 @@
 - [x] ข้อ 4 [ข้อ 4 แสดงผล 3 บรรทัด](/Chapter%207/README.md#74-ข้อ-4-แสดงผล-3-บรรทัด)
 - [x] ข้อ 5 [(4) บัตรปชช](/Chapter%207/README.md#75-4-บัตรปชช)
 
-### Chapter 8: ตัวแปรแบบแถวลำดับและตัวแปรแบบโครงสร้าง
+### Chapter 8: ตัวแปรแบบแถวลำดับและตัวแปรแบบโครงสร้าง [View](/Chapter%208/README.md)
 
-- [ ] ข้อ 1
-- [ ] ข้อ 2
-- [ ] ข้อ 3
-- [ ] ข้อ 4
-- [ ] ข้อ 5
+- [x] ข้อ 1 [Array 1 dimension](/Chapter%208/README.md#81-array-1-dimension)
+- [x] ข้อ 2 [Array 2 dimensions](/Chapter%208/README.md#82-array-2-dimensions)
+- [x] ข้อ 3 [ผลต่างมากสุดของจำนวนที่ติดกัน](/Chapter%208/README.md#83-ผลต่างมากสุดของจำนวนที่ติดกัน)
+- [x] ข้อ 4 [structure array 1](/Chapter%208/README.md#84-structure-array-1)
+- [x] ข้อ 5 [structure array 2](/Chapter%208/README.md#85-structure-array-2)
 
 ### Chapter 9: ตัวแปรแบบตัวชี้ตำแหน่ง และฟังก์ชันขั้นสูง
 
