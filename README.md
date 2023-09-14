@@ -84,7 +84,7 @@
 - [ ] ข้อ 4
 - [ ] ข้อ 5
 
-### Quiz 1
+### Quiz 1 [View](/Quiz%201/README.md)
 
 - [x] ข้อ 1 [exam_2_1_5a](/Quiz%201/README.md#quiz11-exam_2_1_5a)
 - [x] ข้อ 2 [exam_2_2_5a](/Quiz%201/README.md#quiz12-exam_2_2_5a)
