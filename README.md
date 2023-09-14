@@ -84,4 +84,12 @@
 - [ ] ข้อ 4
 - [ ] ข้อ 5
 
+### Quiz 1
+
+- [x] ข้อ 1 [exam_2_1_5a](/Quiz%201/README.md#quiz11-exam_2_1_5a)
+- [x] ข้อ 2 [exam_2_2_5a](/Quiz%201/README.md#quiz12-exam_2_2_5a)
+- [x] ข้อ 3 [exam_2_3_11a](/Quiz%201/README.md#quiz13-exam_2_3_11a)
+- [x] ข้อ 4 [exam_2_4_6a](/Quiz%201/README.md#quiz14-exam_2_4_6a)
+- [x] ข้อ 5 [exam_2_5_9a](/Quiz%201/README.md#quiz15-exam_2_5_9a)
+
 [Top](#computer-programming-exercise)
