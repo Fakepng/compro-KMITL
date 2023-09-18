@@ -83,7 +83,9 @@ Enter your name : abetam
 Your are cute >///<
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%207/7-1.c)
 
 ```c
@@ -124,6 +126,8 @@ bool has_T_A_in(char string[]) {
     }
 }
 ```
+
+</details>
 
 ## 7.2 (4) ลดราคา
 
@@ -199,7 +203,9 @@ Item2 39 -> 35.72
 * Item1 is cheaper
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%207/7-2.c)
 
 ```c
@@ -235,6 +241,8 @@ float discount(int prize, float coupon) {
   return (((100.0 - coupon) / 100.0) * prize);
 }
 ```
+
+</details>
 
 ## 7.3 (4) ใส่ตัวแปรผิดชนิด
 
@@ -296,7 +304,9 @@ Enter 2 number : 214 421
 214 + 421 = 635
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%207/7-3.c)
 
 ```c
@@ -326,6 +336,8 @@ int char_to_int(char num[]) {
   return result;
 }
 ```
+
+</details>
 
 ## 7.4 ข้อ 4 แสดงผล 3 บรรทัด
 
@@ -379,7 +391,9 @@ Small : you completed me.
 Title : You Completed Me.
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%207/7-4.c)
 
 ```c
@@ -454,8 +468,9 @@ void titleCase(char string[]) {
   }
 }
 
-
 ```
+
+</details>
 
 ## 7.5 (4) บัตรปชช
 
@@ -531,7 +546,9 @@ Enter name, age, job : Compro 1990 Easy
 ======================
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%207/7-5.c)
 
 ```c
@@ -560,5 +577,7 @@ void print_id_card(char name[], char job[], int age) {
   printf("======================\n");
 }
 ```
+
+</details>
 
 [Top](#chapter-7-ฟังก์ชันเบื้องต้นและขอบเขตตัวแปร)
