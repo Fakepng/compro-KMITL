@@ -41,7 +41,9 @@ Enter point : 11.5678
 Point is 11.568
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%203/3-1.c)
 
 ```c
@@ -56,6 +58,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 3.2 (4) แสดงเลขในแบบต่าง ๆ
 
@@ -101,7 +105,9 @@ Int/3	-> 5.667
 Int^2	-> 289
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%203/3-2.c)
 
 ```c
@@ -120,6 +126,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 3.3 (4) หนาวใจจะขาดแล้ว
 
@@ -151,7 +159,9 @@ Enter temperature in degree Fahrenheit : 77.66
 Temparature in degree Celsius : 25.37
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%203/3-3.c)
 
 ```c
@@ -166,6 +176,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 3.4 แสดงผลจำนวนเต็ม 9 หลัก
 
@@ -201,7 +213,9 @@ Enter a 9-digit number : 108711495
 output : 015
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%203/3-4.c)
 
 ```c
@@ -217,6 +231,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 3.5 (4) ธุรกิจขนาดย่อม
 
@@ -263,7 +279,9 @@ First 3	: 555
 Last 3	: 555
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%203/3-5.c)
 
 ```c
@@ -282,5 +300,7 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 [Top](#chapter-3-การใช้งานคำสั่ง-input-output-และการคำนวณต่างๆ)
