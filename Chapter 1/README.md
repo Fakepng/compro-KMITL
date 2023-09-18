@@ -34,7 +34,9 @@ Output:
 Hello, Thailand!
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%201/1-1.c)
 
 ```c
@@ -46,6 +48,8 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 ## 1.2 แสดงผลตามตัวอย่าง 2
 
@@ -69,7 +73,9 @@ Hello, Bangkok.
 Hello, Thailand.
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%201/1-2.c)
 
 ```c
@@ -84,6 +90,8 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 ## 1.3 แสดงผลตามตัวอย่าง 3
 
@@ -108,7 +116,9 @@ one     two     three   four    five    Hallelujah
         12345678        12345678        12345678        12345678        12345678
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%201/1-3.c)
 
 ```c
@@ -125,6 +135,8 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 ## 1.4 แสดงผลตามตัวอย่าง IV
 
@@ -153,7 +165,9 @@ Hello, Computer Programming.
 one     two     three   four    five    Hallelujah
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%201/1-4.c)
 
 ```c
@@ -171,6 +185,8 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 ## 1.5 แสดงผลตามตัวอย่าง V
 
@@ -205,7 +221,9 @@ Output:
 12345678        12345678        12345678        12345678        12345678
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%201/1-5.c)
 
 ```c
@@ -222,5 +240,7 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 [Top](#chapter-1-ตัวแปรแบบตัวชี้ตำแหน่ง-และฟังก์ชันขั้นสูง)
