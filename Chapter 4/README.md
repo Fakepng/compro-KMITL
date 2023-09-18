@@ -44,7 +44,9 @@ Enter an integer : 2048
 2048 is an EVEN number.
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%204/4-1.c)
 
 ```c
@@ -66,6 +68,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 4.2 get 3 show max/mid
 
@@ -117,7 +121,9 @@ Enter 3 integers : 99 9 9999
 Max / Mid = 9999 / 99 = 101.000
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%204/4-2.c)
 
 ```c
@@ -164,6 +170,8 @@ int main() {
 }
 ```
 
+</details>
+
 ## 4.3 (6) เปรียบเทียบตัวอักษร A
 
 Question:
@@ -197,7 +205,9 @@ Enter Alphabet : B
 NO
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%204/4-3.c)
 
 ```c
@@ -218,6 +228,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 4.4 (44) บวกเลข
 
@@ -273,7 +285,9 @@ Enter 3 Character (A,B,C) : A B Z
 Input Incorrect.
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%204/4-4.c)
 
 ```c
@@ -327,6 +341,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 4.5 (43) เครื่องคิดเลขที่มีตัวที่มีค่าน้อยเป็นตัวตั้ง
 
@@ -390,7 +406,9 @@ Enter number and operator : 3 D 7
 3/7 = 0.429
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%204/4-5.c)
 
 ```c
@@ -429,5 +447,7 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 [Top](#chapter-4-การเขียนโปรแกรมแบบกำหนดเงื่อนไข)
