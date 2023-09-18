@@ -70,10 +70,10 @@ def main():
 
   readmeContents += item1Testcase
 
-  readmeContents += "Answer:\n"
+  readmeContents += "<details>\n<summary>Answer</summary>\n\n"
   readmeContents += "[View](/Chapter%20" + str(chapterNo) + "/" + sources[0] + ")\n\n"
 
-  readmeContents += "```c\n" + item1Code + "\n```\n\n"
+  readmeContents += "```c\n" + item1Code + "\n```\n\n</details>\n\n"
 
   readmeContents += "## " + str(chapterNo) + ".2 " + item2Title + "\n\n"
 
@@ -85,10 +85,10 @@ def main():
 
   readmeContents += item2Testcase
 
-  readmeContents += "Answer:\n"
+  readmeContents += "<details>\n<summary>Answer</summary>\n\n"
   readmeContents += "[View](/Chapter%20" + str(chapterNo) + "/" + sources[1] + ")\n\n"
 
-  readmeContents += "```c\n" + item2Code + "\n```\n\n"
+  readmeContents += "```c\n" + item2Code + "\n```\n\n</details>\n\n"
 
   readmeContents += "## " + str(chapterNo) + ".3 " + item3Title + "\n\n"
 
@@ -100,10 +100,10 @@ def main():
 
   readmeContents += item3Testcase
 
-  readmeContents += "Answer:\n"
+  readmeContents += "<details>\n<summary>Answer</summary>\n\n"
   readmeContents += "[View](/Chapter%20" + str(chapterNo) + "/" + sources[2] + ")\n\n"
 
-  readmeContents += "```c\n" + item3Code + "\n```\n\n"
+  readmeContents += "```c\n" + item3Code + "\n```\n\n</details>\n\n"
 
   readmeContents += "## " + str(chapterNo) + ".4 " + item4Title + "\n\n"
 
@@ -115,10 +115,10 @@ def main():
 
   readmeContents += item4Testcase
 
-  readmeContents += "Answer:\n"
+  readmeContents += "<details>\n<summary>Answer</summary>\n\n"
   readmeContents += "[View](/Chapter%20" + str(chapterNo) + "/" + sources[3] + ")\n\n"
 
-  readmeContents += "```c\n" + item4Code + "\n```\n\n"
+  readmeContents += "```c\n" + item4Code + "\n```\n\n</details>\n\n"
 
   readmeContents += "## " + str(chapterNo) + ".5 " + item5Title + "\n\n"
 
@@ -130,10 +130,10 @@ def main():
 
   readmeContents += item5Testcase
 
-  readmeContents += "Answer:\n"
+  readmeContents += "<details>\n<summary>Answer</summary>\n\n"
   readmeContents += "[View](/Chapter%20" + str(chapterNo) + "/" + sources[4] + ")\n\n"
 
-  readmeContents += "```c\n" + item5Code + "\n```\n\n"
+  readmeContents += "```c\n" + item5Code + "\n```\n\n</details>\n\n"
 
   readmeContents += "[Top](#chapter-" + str(chapterNo) + "-" + chapterTitle.replace(" ", "-").replace("(", "").replace(")", "").replace(":", "").replace("?", "").replace(",", "").replace("'", "").replace(".", "").replace("!", "").lower() + ")\n"
 
@@ -150,7 +150,7 @@ def main():
   tableOfContents += "- [x] ข้อ 2 [" + item2Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item2Link + ")\n" 
   tableOfContents += "- [x] ข้อ 3 [" + item3Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item3Link + ")\n" 
   tableOfContents += "- [x] ข้อ 4 [" + item4Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item4Link + ")\n" 
-  tableOfContents += "- [x] ข้อ 5 [" + item5Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item5Link + ")\n" 
+  tableOfContents += "- [x] ข้อ 5 [" + item5Title + "](/Chapter%20" + str(chapterNo) + "/README.md" + item5Link + ")\n"
 
   print(tableOfContents)
 
