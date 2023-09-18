@@ -33,7 +33,9 @@ Output:
 Computer                                                             Programming
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%202/2-1.c)
 
 ```c
@@ -43,6 +45,8 @@ int main() {
   printf("%-40s%40s", "Computer", "Programming");
 }
 ```
+
+</details>
 
 ## 2.2 การแสดงข้อความ มากกว่า 1 บรรทัด ไม่ใช้ \n \t
 
@@ -91,7 +95,9 @@ Computer                                                             Programming
                                                     I am a hard-working student.
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%202/2-2.c)
 
 ```c
@@ -105,6 +111,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 2.3 การแสดงผลจำนวนเต็ม
 
@@ -134,7 +142,9 @@ one     two     three   four    five    Hallelujah
         12345678        12345678        12345678        12345678        12345678
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%202/2-3.c)
 
 ```c
@@ -148,6 +158,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 2.4 การแสดงผลทศนิยม
 
@@ -185,7 +197,9 @@ Output:
         3.14159265358979311600
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%202/2-4.c)
 
 ```c
@@ -202,6 +216,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 2.5 การแสดงข้อความ %s
 
@@ -232,7 +248,9 @@ I have been a good stu
                   I have been a good stu
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%202/2-5.c)
 
 ```c
@@ -249,5 +267,7 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 [Top](#chapter-2-การเขียนโปรแกรมเบื้องต้นและคำสั่งแสดงผล)
