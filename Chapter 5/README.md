@@ -56,7 +56,9 @@ Enter 2 Positive Integers: 23 17
 176 159 142 125 108 91 74 57 40 23
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%205/5-1.c)
 
 ```c
@@ -76,6 +78,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 5.2 (4) สะกดชื่อ
 
@@ -140,7 +144,9 @@ N
 Name length : 5
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%205/5-2.c)
 
 ```c
@@ -162,6 +168,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 5.3 (43) เวทย์มนต์สี่เหลี่ยม
 
@@ -221,7 +229,9 @@ Enter size of rectangle : 0
 This is impossiple!
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%205/5-3.c)
 
 ```c
@@ -250,6 +260,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 5.4 รูปสี่เหลี่ยม ใช้แอสกี 2
 
@@ -338,7 +350,9 @@ BCD
 CDE
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%205/5-4.c)
 
 ```c
@@ -359,6 +373,8 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 ## 5.5 (43) รักมากไปรึเปล่า
 
@@ -422,7 +438,9 @@ Enter number and operator : 3 D 7
 3/7 = 0.429
 ```
 
-Answer:
+<details>
+<summary>Answer</summary>
+
 [View](/Chapter%204/4-5.c)
 
 ```c
@@ -461,5 +479,7 @@ int main() {
   return 0;
 }
 ```
+
+</details>
 
 [Top](#chapter-5-การเขียนโปรแกรมแบบวนซ้ำ)
