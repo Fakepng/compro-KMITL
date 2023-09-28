@@ -1,4 +1,4 @@
-# Quiz 1
+# Chapter 12: Quiz 1
 
 [Back](../README.md)
 

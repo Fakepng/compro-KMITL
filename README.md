@@ -86,12 +86,52 @@
 - [x] ข้อ 4 [(43) ชื่อมงคล](/Chapter%209/README.md#94-43-ชื่อมงคล)
 - [x] ข้อ 5 [(43) เติมคำในช่องว่าง](/Chapter%209/README.md#95-43-เติมคำในช่องว่าง)
 
-### Quiz 1 (บทที่ 1-5) [View](/Quiz%201/README.md)
+### Chapter 10: ไฟล์ข้อมูล(ยังไม่พร้อม)
 
-- [x] ข้อ 1 [exam_2_1_5a](/Quiz%201/README.md#quiz11-exam_2_1_5a)
-- [x] ข้อ 2 [exam_2_2_5a](/Quiz%201/README.md#quiz12-exam_2_2_5a)
-- [x] ข้อ 3 [exam_2_3_11a](/Quiz%201/README.md#quiz13-exam_2_3_11a)
-- [x] ข้อ 4 [exam_2_4_6a](/Quiz%201/README.md#quiz14-exam_2_4_6a)
-- [x] ข้อ 5 [exam_2_5_9a](/Quiz%201/README.md#quiz15-exam_2_5_9a)
+- [ ] ข้อ 1
+- [ ] ข้อ 2
+- [ ] ข้อ 3
+- [ ] ข้อ 4
+- [ ] ข้อ 5
+
+### Chapter 11: Reserved
+
+- [ ] ข้อ 1
+- [ ] ข้อ 2
+- [ ] ข้อ 3
+- [ ] ข้อ 4
+- [ ] ข้อ 5
+
+### Chapter 12: Quiz 1 (บทที่ 1-5) [View](/Chapter%2012/README.md)
+
+- [x] ข้อ 1 [exam_2_1_5a](/Chapter%2012/README.md#quiz11-exam_2_1_5a)
+- [x] ข้อ 2 [exam_2_2_5a](/Chapter%2012/README.md#quiz12-exam_2_2_5a)
+- [x] ข้อ 3 [exam_2_3_11a](/Chapter%2012/README.md#quiz13-exam_2_3_11a)
+- [x] ข้อ 4 [exam_2_4_6a](/Chapter%2012/README.md#quiz14-exam_2_4_6a)
+- [x] ข้อ 5 [exam_2_5_9a](/Chapter%2012/README.md#quiz15-exam_2_5_9a)
+
+### Chapter 13: Quiz 2 (บทที่ 1-8)
+
+- [ ] ข้อ 1
+- [ ] ข้อ 2
+- [ ] ข้อ 3
+- [ ] ข้อ 4
+- [ ] ข้อ 5
+
+### Chapter 14: Reserve #1
+
+- [ ] ข้อ 1
+- [ ] ข้อ 2
+- [ ] ข้อ 3
+- [ ] ข้อ 4
+- [ ] ข้อ 5
+
+### Chapter 15: Reserve #2
+
+- [ ] ข้อ 1
+- [ ] ข้อ 2
+- [ ] ข้อ 3
+- [ ] ข้อ 4
+- [ ] ข้อ 5
 
 [Top](#computer-programming-exercise)
