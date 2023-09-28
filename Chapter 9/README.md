@@ -40,7 +40,6 @@ int main()
     add_money_to_wallet(/* CODE HERE */);
     printf("My wallet -> %d", wallet);
 }
-
 ```
 
 Output:
