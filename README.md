@@ -1,5 +1,7 @@
 # Computer Programming Exercise
 
+> Computer Programming (01006012) @ KMITL
+
 ## Table of Contents
 
 - [Chapter 1: การเขียนโปรแกรมภาษาซีเบื้องต้น](#chapter-1-การเขียนโปรแกรมภาษาซีเบื้องต้น)
@@ -76,15 +78,15 @@
 - [x] ข้อ 4 [structure array 1](/Chapter%208/README.md#84-structure-array-1)
 - [x] ข้อ 5 [structure array 2](/Chapter%208/README.md#85-structure-array-2)
 
-### Chapter 9: ตัวแปรแบบตัวชี้ตำแหน่ง และฟังก์ชันขั้นสูง
+### Chapter 9: ตัวแปรแบบตัวชี้ตำแหน่ง และฟังก์ชันขั้นสูง [View](/Chapter%209/README.md)
 
-- [ ] ข้อ 1
-- [ ] ข้อ 2
-- [ ] ข้อ 3
-- [ ] ข้อ 4
-- [ ] ข้อ 5
+- [x] ข้อ 1 [(4) รายได้](/Chapter%209/README.md#91-4-รายได้)
+- [x] ข้อ 2 [(43) โจร](/Chapter%209/README.md#92-43-โจร)
+- [x] ข้อ 3 [(4) คะแนน](/Chapter%209/README.md#93-4-คะแนน)
+- [x] ข้อ 4 [(43) ชื่อมงคล](/Chapter%209/README.md#94-43-ชื่อมงคล)
+- [x] ข้อ 5 [(43) เติมคำในช่องว่าง](/Chapter%209/README.md#95-43-เติมคำในช่องว่าง)
 
-### Quiz 1 [View](/Quiz%201/README.md)
+### Quiz 1 (บทที่ 1-5) [View](/Quiz%201/README.md)
 
 - [x] ข้อ 1 [exam_2_1_5a](/Quiz%201/README.md#quiz11-exam_2_1_5a)
 - [x] ข้อ 2 [exam_2_2_5a](/Quiz%201/README.md#quiz12-exam_2_2_5a)
