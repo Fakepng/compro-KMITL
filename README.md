@@ -110,13 +110,13 @@
 - [x] ข้อ 4 [exam_2_4_6a](/Chapter%2012/README.md#quiz14-exam_2_4_6a)
 - [x] ข้อ 5 [exam_2_5_9a](/Chapter%2012/README.md#quiz15-exam_2_5_9a)
 
-### Chapter 13: Quiz 2 (บทที่ 1-8)
+### Chapter 13: Quiz 2 (บทที่ 1-8) [View](/Chapter%2013/README.md)
 
-- [ ] ข้อ 1
-- [ ] ข้อ 2
-- [ ] ข้อ 3
-- [ ] ข้อ 4
-- [ ] ข้อ 5
+- [x] ข้อ 1 [exam_3_1_8a](/Chapter%2013/README.md#quiz21-exam_3_1_8a)
+- [x] ข้อ 2 [exam_3_2_2a](/Chapter%2013/README.md#quiz22-exam_3_2_2a)
+- [x] ข้อ 3 [exam_3_3_3a](/Chapter%2013/README.md#quiz23-exam_3_3_3a)
+- [x] ข้อ 4 [exam_3_4_10a](/Chapter%2013/README.md#quiz24-exam_3_4_10a)
+- [x] ข้อ 5 [exam_3_5_9a](/Chapter%2013/README.md#quiz25-exam_3_5_9a)
 
 ### Chapter 14: Reserve #1
 
