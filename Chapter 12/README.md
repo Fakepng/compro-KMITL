@@ -84,8 +84,10 @@ Enter Number : -472
 Quadrant 3
 ```
 
-Answer:
-[View](/Quiz%201/exam_2_1_5a.c)
+<details>
+<summary>Answer</summary>
+
+[View](/Chapter%2012/exam_2_1_5a.c)
 
 ```c
 #include <stdio.h>
@@ -114,6 +116,8 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 ## Quiz1.2 exam_2_2_5a
 
@@ -185,8 +189,10 @@ Enter 2 whole numbers : -1 -11
 Summation = -11 + -9 + -7 + -5 + -3 + -1 = -36
 ```
 
-Answer:
-[View](/Quiz%201/exam_2_2_5a.c)
+<details>
+<summary>Answer</summary>
+
+[View](/Chapter%2012/exam_2_2_5a.c)
 
 ```c
 #include <stdio.h>
@@ -217,6 +223,8 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 ## Quiz1.3 exam_2_3_11a
 
@@ -273,8 +281,10 @@ input : 8
 12345678
 ```
 
-Answer:
-[View](/Quiz%201/exam_2_3_11a.c)
+<details>
+<summary>Answer</summary>
+
+[View](/Chapter%2012/exam_2_3_11a.c)
 
 ```c
 #include <stdio.h>
@@ -296,6 +306,8 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 ## Quiz1.4 exam_2_4_6a
 
@@ -368,8 +380,10 @@ Enter a number : -70
 Result         : ComPro
 ```
 
-Answer:
-[View](/Quiz%201/exam_2_4_6a.c)
+<details>
+<summary>Answer</summary>
+
+[View](/Chapter%2012/exam_2_4_6a.c)
 
 ```c
 #include <stdio.h>
@@ -408,6 +422,8 @@ int main() {
 }
 ```
 
+</details>
+
 ## Quiz1.5 exam_2_5_9a
 
 Question:
@@ -434,8 +450,10 @@ length= 53, width= 12
 Perimeter of rectangle is 130
 ```
 
-Answer:
-[View](/Quiz%201/exam_2_5_9a.c)
+<details>
+<summary>Answer</summary>
+
+[View](/Chapter%2012/exam_2_5_9a.c)
 
 ```c
 #include <stdio.h>
@@ -459,5 +477,7 @@ int main() {
     return 0;
 }
 ```
+
+</details>
 
 [Top](#quiz-1)
